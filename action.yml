@@ -1,0 +1,5 @@
+name: 'alpha-nlu'
+description: 'Run the nlu program'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
