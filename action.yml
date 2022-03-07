@@ -1,5 +1,5 @@
-name: 'alpha-nlu'
-description: 'Run the nlu program'
+name: 'alpha-stt'
+description: 'Run the speech recognition program'
 runs:
   using: 'docker'
   image: 'Dockerfile'

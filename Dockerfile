@@ -3,7 +3,7 @@ FROM osrf/ros:foxy-desktop
 # Software Dependencies
 #ex : RUN apt-get install festival
 
-RUN mkdir -p ~/dev/src/alpha_nlu
+RUN mkdir -p ~/dev/src/alpha_stt
 
 COPY . /root/dev/src
 
